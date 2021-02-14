@@ -12,5 +12,5 @@ Sabir Mohammedi Taieb
 - MinPesNfIqr
 - GpaMmtSelectionPolicy
 
-![alt text](https://github.com/Sabir97/CSimPFE/tree/main/ScreenShots/MainMenu.png)
+![alt text](ScreenShots/MainMenu.png)
 
