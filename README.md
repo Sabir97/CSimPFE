@@ -14,3 +14,12 @@ Sabir Mohammedi Taieb
 
 ![alt text](ScreenShots/MainMenu.png)
 
+![alt text](ScreenShots/simulationConfig5.jpg)
+
+![alt text](ScreenShots/EsvBarChart.jpg)
+
+![alt text](ScreenShots/emigrBarChart.jpg)
+
+![alt text](ScreenShots/tmigrBarChart.jpg)
+
+![alt text](ScreenShots/Approach.jpg)
